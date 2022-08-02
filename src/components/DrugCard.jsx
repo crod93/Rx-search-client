@@ -36,7 +36,7 @@ const DrugCard = (props) => {
                            </Typography>
                         )}
                         {value && (
-                           <Typography component="span" variant="body1" sx={{}}>
+                           <Typography component="span" variant="body1">
                               {value}
                            </Typography>
                         )}

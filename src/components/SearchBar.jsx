@@ -32,7 +32,7 @@ const SearchBar = () => {
    const searchResults = useSelector(getDrugSearchResults);
    const spellingResults = useSelector(getSpellingSuggestionsResults);
    const displayMode = useSelector(getSearcBarhDisplayMode);
-   const inputRef = useRef(null);
+
    const navigate = useNavigate();
 
    const onSubmit = useCallback(() => {
@@ -150,10 +150,7 @@ const SearchBar = () => {
                                        component="a"
                                        onClick={() => setSearchInput(result)}
                                     >
-                                       <ListItemText
-                                          primary={result}
-                                          ref={inputRef}
-                                       />
+                                       <ListItemText primary={result} />
                                     </ListItemButton>
                                  </ListItem>
                               );
