@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Blink Health Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple CRUD application buildt with React, Redux, and Material UI.
+
+<img width="1440" alt="Screen Shot 2022-08-01 at 11 02 10 PM" src="https://user-images.githubusercontent.com/18606197/182303014-778a6026-39bb-4a57-be79-0c14587a854a.png">
+
 
 ## Available Scripts
 
