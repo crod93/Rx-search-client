@@ -40,7 +40,7 @@ const Navbar = () => {
                      textTransform: 'capitalize',
                   }}
                >
-                  Blink Take Home
+                  Rx Search
                </Typography>
 
                <Box
