@@ -2,9 +2,7 @@
 
 Simple Drug Search application buildt with React, Redux, and Material UI.
 
-<!-- <img width="1440" alt="Screen Shot 2022-08-01 at 11 02 10 PM" src="https://user-images.githubusercontent.com/18606197/182303014-778a6026-39bb-4a57-be79-0c14587a854a.png"> -->
-
-![Rx Search UI](https://user-images.githubusercontent.com/18606197/182303014-778a6026-39bb-4a57-be79-0c14587a854a.png 'RX Search Frontend')
+![Rx Search UI](https://user-images.githubusercontent.com/18606197/210282404-ac8e8c8e-c3a3-4016-9e09-d5694a8fa8b3.png 'RX Search Frontend')
 
 ## Available Scripts
 
